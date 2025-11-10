@@ -81,7 +81,7 @@ As the Data Analyst, I:
 
 - Identified inventory issues and optimized supply chain operations
 
-📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Supply_chain__view.png)
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/92cb450a695f279a0a8aff232bf4759bb3517acf/Supply_chain__view.png)
 
 
 ## 🧑‍💼 Executive View
