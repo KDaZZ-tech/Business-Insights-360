@@ -50,7 +50,7 @@ As the Data Analyst, I:
 
 - Top/Bottom Customers & Products by net sales
 
-📊 ![Dashboard Overview](
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Finance_view.png)
 
 ## 🤝 Sales View
 
@@ -60,7 +60,7 @@ As the Data Analyst, I:
 
 - Unit Economics Donut Chart detailing total COGS, Gross Margin, and Net Sales
 
-📊 Dashboard Overview
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Sales_view.png)
 
 ## 📣 Marketing View
 
@@ -70,7 +70,7 @@ As the Data Analyst, I:
 
 - Net Sales & GM Bifurcation Chart showing GM → OpEx → Net Profit
 
-📊 Dashboard Overview
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Marketing_view.png)
 
 
 ## ⛓️ Supply Chain View
@@ -81,7 +81,7 @@ As the Data Analyst, I:
 
 - Identified inventory issues and optimized supply chain operations
 
-📊 Dashboard Overview
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Supply_chain__view.png)
 
 
 ## 🧑‍💼 Executive View
@@ -94,7 +94,7 @@ Top 5 Customers & Products by revenue / GM
 
 Sub-Region Summary comparing financial health & risk
 
-📊 Dashboard Overview
+📊 ![Dashboard Overview](https://github.com/KDaZZ-tech/Business-Insights-360/blob/d0f04943204bad694eb09362e6f5d72d888a9cb5/Executive_view.png)
 
 ---
 
